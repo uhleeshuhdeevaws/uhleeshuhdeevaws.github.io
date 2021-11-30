@@ -1,0 +1,59 @@
+html {
+    padding-right: 1em;
+    padding-left: 1em;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 45em;
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    line-height: 1.5;
+    padding: 4em 1em;
+    color: #555 /*#7a7a7a;*/
+    
+}
+
+h2 {
+    margin-top: 1em;
+    padding-top: 1em;
+}
+
+#previously {
+    margin-top: 2em;
+    padding-top: 0em;
+    margin-bottom: -.5em;
+}
+
+#fun {
+    margin-top: 2em;
+}
+
+#alicia {
+    color: #bc3424;
+}
+
+h1,
+h2,
+strong {
+    color: #000000;
+}
+
+a {
+    background: #7a7a7a25;
+    text-decoration: none;
+    padding: 0 .25em;
+    border-radius: .25em;
+    color: #000000;
+}
+
+a:hover {
+    padding: 0 .25em;
+    border-radius: .25em;
+    background: #bc3424;
+    color: #FFFFFF !important; 
+}
+
+.section {
+    padding-top: 1em;
+}
+
